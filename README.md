@@ -1,2 +1,2 @@
 # pannad8ta.github.io
-Chung's Data Science blog
+Nic's Data Science blog
