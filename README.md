@@ -6,9 +6,9 @@
 - After the public backlash the YouTube channel received a lot more negative and neutral sentiments from 17.23% to 1.42% in average sentiment polarity after the public backlash, which can be visualised below (before vs after).
 
 <p float="left">
-  <img src="https://github.com/PannaD8ta/YT_Comments_Sentiment_Analysis/blob/main/Sentiment_Analysis_plot_1.png" alt="Video 1" width="400" height="350"/>
+  <img src="https://github.com/PannaD8ta/YT_Comments_Sentiment_Analysis/blob/main/Sentiment_Analysis_plot_1.png" alt="Sentiment Analysis Video 1" width="400" height="350"/>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/PannaD8ta/YT_Comments_Sentiment_Analysis/blob/main/Sentiment_Analysis_plot_2.png" alt="Video 1" width="400" height="350"/>
+  <img src="https://github.com/PannaD8ta/YT_Comments_Sentiment_Analysis/blob/main/Sentiment_Analysis_plot_2.png" alt="Sentiment Analysis Video 2" width="400" height="350"/>
 </p>
 
 ## [Project # 2: Credit Card Fraud Classifier:](https://github.com/PannaD8ta/Creditcard_Fraud_Classifer)
