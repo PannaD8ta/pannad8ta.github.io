@@ -24,3 +24,10 @@
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github.com/PannaD8ta/Creditcard_Fraud_Classifer/blob/main/Confusion_Matrix.png" alt="Confusion_Matrix" width="350" height="300" />
 </p>
+
+## [Project # 3: Stock Prices Prediction & Sentiment Analysis:](https://github.com/PannaD8ta/StockPrices_Prediction_Sentiment_Analysis)
+- Gathered polarity data (Subjectivity, Compound, Positive, Negative, Neutral) to predict stock prices. 
+- Achieved 84% accuracy score using LDA
+
+<img src="https://github.com/PannaD8ta/StockPrices_Prediction_Sentiment_Analysis/blob/main/lda_classification_report.png" alt="Confusion Matrix" width="300" height="150" />
+
