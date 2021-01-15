@@ -11,7 +11,7 @@
   <img src="https://github.com/PannaD8ta/YT_Comments_Sentiment_Analysis/blob/main/Sentiment_Analysis_plot_2.png" alt="Video 1" width="400" height="350"/>
 </p>
 
-## [Project # 2: Youtube Comments Sentiment Analysis:](https://github.com/PannaD8ta/Creditcard_Fraud_Classifer)
+## [Project # 2: Credit Card Fraud Classifier:](https://github.com/PannaD8ta/Creditcard_Fraud_Classifer)
 - The top models selected were:
   - Extra Trees Classifier with an AUC score of 0.9876
   - Random Forest Classifier with an AUC score of 0.9813
