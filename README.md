@@ -7,7 +7,7 @@
 
 <p float="left">
   <img src="https://github.com/PannaD8ta/YT_Comments_Sentiment_Analysis/blob/main/Sentiment_Analysis_plot_1.png" alt="Sentiment Analysis Video 1" width="400" height="350"/>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github.com/PannaD8ta/YT_Comments_Sentiment_Analysis/blob/main/Sentiment_Analysis_plot_2.png" alt="Sentiment Analysis Video 2" width="400" height="350"/>
 </p>
 
@@ -21,6 +21,6 @@
 
 <p float="left">
   <img src="https://github.com/PannaD8ta/Creditcard_Fraud_Classifer/blob/main/AUC.png" alt="AUC" width="400" height="350"/>
-   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github.com/PannaD8ta/Creditcard_Fraud_Classifer/blob/main/Confusion_Matrix.png" alt="Confusion Matrix" width="400" height="350" />
 </p>
