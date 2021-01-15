@@ -29,5 +29,9 @@
 - Gathered polarity data (Subjectivity, Compound, Positive, Negative, Neutral) to predict stock prices. 
 - Achieved 84% accuracy score using LDA
 
-<img src="https://github.com/PannaD8ta/StockPrices_Prediction_Sentiment_Analysis/blob/main/lda_classification_report.png" alt="Confusion Matrix" width="300" height="150" />
+<img src="https://github.com/PannaD8ta/StockPrices_Prediction_Sentiment_Analysis/blob/main/lda_classification_report.png" alt="" width="300" height="150" />
 
+## [Project # 4: Mall Customer Segmentation:](https://github.com/PannaD8ta/Mall_Customer_Clustering_PyCaret)
+> This dataset was obtained from a Kaggle Dataset with the intention of showcasing the use of the PyCaret library for market basket analysis. The aim of this project is to understand the sort of marketing strategies can be utilised using machine learning algorithms.
+
+<img src="https://github.com/PannaD8ta/Mall_Customer_Clustering_PyCaret/blob/main/bar.png" alt="bar" width="600" height="450"/>
