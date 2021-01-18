@@ -29,7 +29,7 @@
 - Gathered polarity data (Subjectivity, Compound, Positive, Negative, Neutral) to predict stock prices. 
 - Achieved 84% accuracy score using LDA
 
-<img src="/images/lda_classification_report.png" alt="" width="350" height="150">
+<img src="/images/lda_classification_report.png" alt="" width="400" height="150">
 
 ## [Project # 4: Mall Customer Segmentation:](https://github.com/PannaD8ta/Mall_Customer_Clustering_PyCaret)
 > This dataset was obtained from a Kaggle Dataset with the intention of showcasing the use of the PyCaret library for market basket analysis. The aim of this project is to understand the sort of marketing strategies can be utilised using machine learning algorithms.
